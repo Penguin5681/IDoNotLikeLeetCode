@@ -11,4 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
