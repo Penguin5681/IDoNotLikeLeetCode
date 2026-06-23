@@ -11,14 +11,13 @@ public:
     }
 
     bool isHappy(int n) {
-        unordered_set<int> storedSums;
-        while (storedSums.find(n) == storedSums.end()) {
-            storedSums.insert(n);
-            n = getDigitSum(n);
-            if (n == 1) {
-                return true;
-            }
-        }
-        return false;
+        int slow = n;
+        int fast = n;
+        do {
+            slow = getDigitSum(slow);
+            fast = getDigitSum(getDigitSum(fast));
+        } while (slow != fast);
+
+        return slow == 1; 
     }
 };
