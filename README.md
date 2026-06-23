@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0507-perfect-number) |
 ## String
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
