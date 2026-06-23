@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0507-perfect-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
