@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
+| [1200-minimum-absolute-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
+| [1200-minimum-absolute-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Two Pointers
 |  |
 | ------- |
