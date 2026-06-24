@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
