@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
