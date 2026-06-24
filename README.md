@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
