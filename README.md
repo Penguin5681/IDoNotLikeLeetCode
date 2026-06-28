@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
