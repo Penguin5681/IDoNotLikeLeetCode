@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Two Pointers
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
