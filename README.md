@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0162-find-peak-element) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
