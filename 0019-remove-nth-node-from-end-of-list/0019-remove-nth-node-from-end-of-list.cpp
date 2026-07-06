@@ -6,7 +6,6 @@ public:
         newHead.next = head;
 
         ListNode *slow = &newHead;
-        
         ListNode *fast = &newHead;
             for (int i = 0; i < n; ++i)
                 fast = fast->next;
