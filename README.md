@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -150,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
