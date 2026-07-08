@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -168,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
