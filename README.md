@@ -175,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
