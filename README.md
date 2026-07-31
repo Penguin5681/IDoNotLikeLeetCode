@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
+| [0997-find-the-town-judge](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0997-find-the-town-judge](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
