@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
 | [0997-find-the-town-judge](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0997-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0997-find-the-town-judge](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0997-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Greedy
 |  |
 | ------- |
