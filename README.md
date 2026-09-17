@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0905-sort-array-by-parity) |
