@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Penguin5681/IDoNotLikeLeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
